@@ -1,11 +1,1 @@
-[
-  {
-    "word": "gtgt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "giá trị gia tăng (value added tax, VAT)"
-      }
-    ]
-  }
-]
+[{"word":"GTGT","definitions":[{"dicts":["VNEDICT"],"text":"giá trị gia tăng (value added tax, VAT)","type":"bilingual"}]}]

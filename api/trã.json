@@ -1,15 +1,1 @@
-[
-  {
-    "word": "trã",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nồi đất rộng miệng và nông, thường dùng để kho nấu\nVí dụ:\n- trã cá kho"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@trã\n- d. Nồi đất nông và rộng miệng: Trã cá."
-      }
-    ]
-  }
-]
+[{"word":"trã","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"nồi đất rộng miệng và nông, thường dùng để kho nấu\nVí dụ:\n- trã cá kho","type":"mono"},{"dicts":["Từ điển Tiếng Việt - Hồ Ngọc Đức"],"text":"@trã\n- d. Nồi đất nông và rộng miệng: Trã cá.","type":"mono"}]}]

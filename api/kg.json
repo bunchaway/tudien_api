@@ -1,11 +1,1 @@
-[
-  {
-    "word": "kg",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kilogram [viết tắt]"
-      }
-    ]
-  }
-]
+[{"word":"kg","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"kilogram [viết tắt]","type":"mono"}]}]

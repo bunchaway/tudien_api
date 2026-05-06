@@ -1,11 +1,1 @@
-[
-  {
-    "word": "xml",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ngôn ngữ dùng để mô tả nội dung tài liệu một cách có hệ thống thông qua các thẻ quy định kiểu dữ liệu do người sử dụng tuỳ ý định nghĩa"
-      }
-    ]
-  }
-]
+[{"word":"XML","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"ngôn ngữ dùng để mô tả nội dung tài liệu một cách có hệ thống thông qua các thẻ quy định kiểu dữ liệu do người sử dụng tuỳ ý định nghĩa","type":"mono"}]}]

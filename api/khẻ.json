@@ -1,15 +1,1 @@
-[
-  {
-    "word": "khẻ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@khẻ\n-Strike\n=Lấy cái thước khẻ vào tay ai\n+To take a ruler and strike somebody\"s hand\n=\n+hư ghè"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@khẻ\n- Strike\n=Lấy cái thước khẻ vào tay ai+To take a ruler and strike somebody's hand\n=như ghè"
-      }
-    ]
-  }
-]
+[{"word":"khẻ","definitions":[{"dicts":["Việt Anh - Hồ Ngọc Đức"],"text":"@khẻ\n- Strike\n=Lấy cái thước khẻ vào tay ai+To take a ruler and strike somebody's hand\n=như ghè","type":"bilingual"},{"dicts":["Babylon"],"text":"[khẻ] \n Strike. Lấy cái thước khẻ vào tay ai \n To take a ruler and strike somebody's hand. như ghè","type":"bilingual"}]}]

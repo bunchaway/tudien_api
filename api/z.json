@@ -1,11 +1,1 @@
-[
-  {
-    "word": "z",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[đọc là ''dét''] con chữ của bảng chữ cái Latin, dùng để phiên âm một số từ mượn của tiếng nước ngoài, hoặc viết nguyên dạng các thuật ngữ khoa học có tính quốc tế trong tiếng Việt"
-      }
-    ]
-  }
-]
+[{"word":"z","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"[đọc là ''dét''] con chữ của bảng chữ cái Latin, dùng để phiên âm một số từ mượn của tiếng nước ngoài, hoặc viết nguyên dạng các thuật ngữ khoa học có tính quốc tế trong tiếng Việt","type":"mono"}]}]

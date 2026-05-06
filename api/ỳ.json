@@ -1,15 +1,1 @@
-[
-  {
-    "word": "ỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ỳ\n*động từ\n-inertia, state of inactivity, stay out, inert, sluggish"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "inertia, state of inactivity, stay out, inert, sluggish"
-      }
-    ]
-  }
-]
+[{"word":"ỳ ạch","definitions":[{"dicts":["VNEDICT"],"text":"to toil, labor with difficulty","type":"bilingual"},{"dicts":["Babylon"],"text":"như ỳ à ỳ ạch","type":"bilingual"}]},{"word":"ỳ","definitions":[{"dicts":["VNEDICT"],"text":"inertia, state of inactivity, stay out, inert, sluggish","type":"bilingual"},{"dicts":["Babylon"],"text":"động từ inertia, state of inactivity, stay out, inert, sluggish","type":"bilingual"}]},{"word":"ỳ à ỳ ạch","definitions":[{"dicts":["Babylon"],"text":"trạng từ laboriously, with difficulty","type":"bilingual"}]},{"word":"ỳ ra không trả","definitions":[{"dicts":["Babylon"],"text":"thành ngữ brazenly refuse to pay","type":"bilingual"}]},{"word":"ỳ mặt","definitions":[{"dicts":["Babylon"],"text":"trạng từ sturborn, look dumb founded","type":"bilingual"}]}]

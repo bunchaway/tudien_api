@@ -1,15 +1,1 @@
-[
-  {
-    "word": "qs",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quân sự [viết tắt]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quân sự [viết tắt]"
-      }
-    ]
-  }
-]
+[{"word":"QS","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"quân sự [viết tắt]","type":"mono"}]}]

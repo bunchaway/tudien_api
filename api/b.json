@@ -1,15 +1,1 @@
-[
-  {
-    "word": "b",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kí hiệu phân loại trên dưới: thứ hai, sau A\nVí dụ:\n- sản phẩm loại B \n - nhà số 4B (sau số 4A)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kí hiệu phân loại trên dưới: thứ hai, sau A\nVí dụ:\n- sản phẩm loại B \n - nhà số 4B (sau số 4A)"
-      }
-    ]
-  }
-]
+[{"word":"B","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"kí hiệu phân loại trên dưới: thứ hai, sau A\nVí dụ:\n- sản phẩm loại B \n - nhà số 4B (sau số 4A)","type":"mono"}]}]

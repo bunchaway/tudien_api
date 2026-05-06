@@ -1,15 +1,1 @@
-[
-  {
-    "word": "giẩy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@giẩy\n-Weed (a plot of ground), clean\n=Giẩy cỏ đường đi\n+To weed a path\n-Level\n=Giẩy sân\n+To level a yard\n-Bribe with money, buy over"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@giẩy\n- Weed (a plot of ground), clean\n=Giẩy cỏ đường đi+To weed a path\n-Level\n=Giẩy sân+To level a yard\n-Bribe with money, buy over"
-      }
-    ]
-  }
-]
+[{"word":"giẩy","definitions":[{"dicts":["Việt Anh - Hồ Ngọc Đức"],"text":"@giẩy\n- Weed (a plot of ground), clean\n=Giẩy cỏ đường đi+To weed a path\n-Level\n=Giẩy sân+To level a yard\n-Bribe with money, buy over","type":"bilingual"},{"dicts":["Babylon"],"text":"[giẩy] \n Weed (a plot of ground), clean. \n Giẩy cỏ đường đi \n To weed a path. \n Level. Giẩy sân \n To level a yard. \n Bribe with money, buy over.","type":"bilingual"}]}]

@@ -1,11 +1,1 @@
-[
-  {
-    "word": "khđt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "science and technology"
-      }
-    ]
-  }
-]
+[{"word":"KHĐT","definitions":[{"dicts":["VNEDICT"],"text":"science and technology","type":"bilingual"}]}]

@@ -1,15 +1,1 @@
-[
-  {
-    "word": "trủ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hàng dệt thưa bằng tơ gốc, tơ thô, thường dùng để làm lưới đánh cá ở biển"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@trủ\n- d. Đồ dệt bằng tơ gốc:Thắt lưng trủ."
-      }
-    ]
-  }
-]
+[{"word":"trủ","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"hàng dệt thưa bằng tơ gốc, tơ thô, thường dùng để làm lưới đánh cá ở biển","type":"mono"},{"dicts":["Từ điển Tiếng Việt - Hồ Ngọc Đức"],"text":"@trủ\n- d. Đồ dệt bằng tơ gốc:Thắt lưng trủ.","type":"mono"}]}]

@@ -1,15 +1,1 @@
-[
-  {
-    "word": "qđ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quy định [viết tắt]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quyết định [viết tắt]"
-      }
-    ]
-  }
-]
+[{"word":"QĐ","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"quy định [viết tắt]","type":"mono"},{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"quyết định [viết tắt]","type":"mono"}]}]

@@ -1,15 +1,1 @@
-[
-  {
-    "word": "q",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[đọc là ''quy''; đánh vần là ''quờ''] con chữ thứ hai mươi mốt của bảng chữ cái chữ quốc ngữ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quyền [viết tắt; dùng trước một danh từ chỉ chức vụ]"
-      }
-    ]
-  }
-]
+[{"word":"q","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"[đọc là ''quy''; đánh vần là ''quờ''] con chữ thứ hai mươi mốt của bảng chữ cái chữ quốc ngữ","type":"mono"},{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"quyền [viết tắt; dùng trước một danh từ chỉ chức vụ]","type":"mono"}]}]

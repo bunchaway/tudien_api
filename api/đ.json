@@ -1,15 +1,1 @@
-[
-  {
-    "word": "đ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[đọc là ''đê''; đánh vần là ''đờ''] con chữ thứ bảy của bảng chữ cái chữ quốc ngữ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đồng [viết tắt]\nVí dụ:\n- 100.000đ"
-      }
-    ]
-  }
-]
+[{"word":"đ","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"[đọc là ''đê''; đánh vần là ''đờ''] con chữ thứ bảy của bảng chữ cái chữ quốc ngữ","type":"mono"},{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"đồng [viết tắt]\nVí dụ:\n- 100.000đ","type":"mono"}]}]

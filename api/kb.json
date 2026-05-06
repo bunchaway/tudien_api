@@ -1,15 +1,1 @@
-[
-  {
-    "word": "kb",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kilobit [viết tắt]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kilobyte [viết tắt]"
-      }
-    ]
-  }
-]
+[{"word":"kb","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"kilobit [viết tắt]","type":"mono"},{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"kilobyte [viết tắt]","type":"mono"}]}]

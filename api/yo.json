@@ -1,15 +1,1 @@
-[
-  {
-    "word": "yoga",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "học thuyết và phương pháp tự điều khiển tâm lí và sinh lí của con người trong một hệ thống triết học - tôn giáo của Ấn Độ, nhằm đạt đến trạng thái giải thoát"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hệ thống những cách luyện tập các tư thế, luyện tập thở và định thần theo học thuyết và phương pháp yoga, có tác dụng rèn luyện thân thể, tăng cường sức khoẻ\nVí dụ:\n- luyện yoga"
-      }
-    ]
-  }
-]
+[{"word":"yoga","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"học thuyết và phương pháp tự điều khiển tâm lí và sinh lí của con người trong một hệ thống triết học - tôn giáo của Ấn Độ, nhằm đạt đến trạng thái giải thoát","type":"mono"},{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"hệ thống những cách luyện tập các tư thế, luyện tập thở và định thần theo học thuyết và phương pháp yoga, có tác dụng rèn luyện thân thể, tăng cường sức khoẻ\nVí dụ:\n- luyện yoga","type":"mono"}]}]

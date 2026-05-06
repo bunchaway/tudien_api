@@ -1,15 +1,1 @@
-[
-  {
-    "word": "xợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xợp\n*tính từ\n-ruffled, dishevelled (xợp tóc)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ruffled, disheveled"
-      }
-    ]
-  }
-]
+[{"word":"xợp","definitions":[{"dicts":["VNEDICT"],"text":"ruffled, disheveled","type":"bilingual"},{"dicts":["Babylon"],"text":"tính từ ruffled, dishevelled (xợp tóc)","type":"bilingual"}]}]

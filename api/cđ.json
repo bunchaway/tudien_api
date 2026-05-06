@@ -1,11 +1,1 @@
-[
-  {
-    "word": "cđvn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Cộng Đồng Việt Nam"
-      }
-    ]
-  }
-]
+[{"word":"CĐVN","definitions":[{"dicts":["VNEDICT"],"text":"Cộng Đồng Việt Nam","type":"bilingual"}]}]

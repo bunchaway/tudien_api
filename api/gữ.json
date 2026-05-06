@@ -1,11 +1,1 @@
-[
-  {
-    "word": "gữi đến",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to send to"
-      }
-    ]
-  }
-]
+[{"word":"gữi đến","definitions":[{"dicts":["VNEDICT"],"text":"to send to","type":"bilingual"}]}]

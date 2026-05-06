@@ -1,11 +1,1 @@
-[
-  {
-    "word": "quota",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "số lượng hoặc tỉ lệ tối đa cho phép, như về hàng hoá xuất khẩu, nhập khẩu trong một thời gian nhất định, v.v.; giấy phép cấp trong trường hợp nói trên\nVí dụ:\n- phân bổ quota không đều \n - xin được một quota xuất khẩu gạo"
-      }
-    ]
-  }
-]
+[{"word":"quota","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"số lượng hoặc tỉ lệ tối đa cho phép, như về hàng hoá xuất khẩu, nhập khẩu trong một thời gian nhất định, v.v.; giấy phép cấp trong trường hợp nói trên\nVí dụ:\n- phân bổ quota không đều \n - xin được một quota xuất khẩu gạo","type":"mono"}]}]

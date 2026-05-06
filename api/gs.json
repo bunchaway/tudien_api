@@ -1,15 +1,1 @@
-[
-  {
-    "word": "gs",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "giáo sư [viết tắt]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "giáo sư [viết tắt]"
-      }
-    ]
-  }
-]
+[{"word":"gs","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"giáo sư [viết tắt]","type":"mono"}]}]

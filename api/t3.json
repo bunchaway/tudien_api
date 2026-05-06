@@ -1,11 +1,1 @@
-[
-  {
-    "word": "t34",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@T34\n- Tên gọi loại xe tăng hạng trung của Liên Xô trước đây được sử dụng trong kháng chiến chống Mĩ, nặng 32 tấn, kíp xe 5 người, tốc độ lớn nhất 55km/h"
-      }
-    ]
-  }
-]
+[{"word":"T34","definitions":[{"dicts":["Từ điển Tiếng Việt - Hồ Ngọc Đức"],"text":"@T34\n- Tên gọi loại xe tăng hạng trung của Liên Xô trước đây được sử dụng trong kháng chiến chống Mĩ, nặng 32 tấn, kíp xe 5 người, tốc độ lớn nhất 55km/h","type":"mono"}]}]

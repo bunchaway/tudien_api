@@ -1,15 +1,1 @@
-[
-  {
-    "word": "xể",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xể\n*động từ\n-to torn, to rent"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to torn, rent"
-      }
-    ]
-  }
-]
+[{"word":"xể","definitions":[{"dicts":["VNEDICT"],"text":"to torn, rent","type":"bilingual"},{"dicts":["Babylon"],"text":"động từ to torn, to rent","type":"bilingual"}]}]

@@ -1,15 +1,1 @@
-[
-  {
-    "word": "kcs",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kiểm tra chất lượng sản phẩm [viết tắt]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kiểm tra chất lượng sản phẩm [viết tắt]"
-      }
-    ]
-  }
-]
+[{"word":"KCS","definitions":[{"dicts":["Từ điển Tiếng Việt thông dụng"],"text":"kiểm tra chất lượng sản phẩm [viết tắt]","type":"mono"}]}]
